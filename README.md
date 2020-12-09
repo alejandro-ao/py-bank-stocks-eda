@@ -1,6 +1,6 @@
 # EDA Training: Bank stocks
 
-Welcome to this project! In it, I deal with exploratory data analysis of the stock prices of four banks between 2006 (before the 2008 crisis) and the beginning of 2020 (before the covid19 crisis). This kind of information could be useful to financial professionals studying the behaviour of these four stocks between the last two major financial crisis in recent times. In this analysis, I create the distribution plots of the daily returns of each asset, their historical risk (standard deviation) and their correlation to each other.
+Welcome to this project! In it, I deal with exploratory data analysis of the stock prices of four banks between 2006 (before the 2008 crisis) and the beginning of 2020 (before the covid19 crisis). This kind of information could be useful to financial professionals studying the behaviour of these four stocks between the last two major financial crisis in recent times. In this analysis, I create the distribution plots of the daily returns of each asset, calculate their historical risk (standard deviation) and their correlation to each other.
 
 Important note: This is conceived as a training project and should not be considered as financial advice. Take care of your money.
 
