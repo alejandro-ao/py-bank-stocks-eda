@@ -8,7 +8,7 @@ Important note: This is conceived as a training project and should not be consid
 I built this project to practice my data cleaning and EDA techniques. It should be useful to anyone seeking training with basic visualisation libraries (Seaborn, Matplotlib and Cufflinks). If that is you, I recommend that you code along and try to understand the code in each cell of the Jupyter Notebook. 
 
 ## How to run the code?
-In this project, I import some data from a free API (Alpha Vintage). Note that if you want to run the code in your local computer, you should first register for a free API key on Alpha Vintage and add that key to the code. There will be a comment in the code where you should include your API key. Of course, you will not be able to use my API key since it is not included in this code. 
+In this project, I import some data from a free API (Alpha Vantage). Note that if you want to run the code in your local computer, you should first register for a free API key on Alpha Vantage and add that key to the code. There will be a comment in the code where you should include your API key. Of course, you will not be able to use my API key since it is not included in this code. 
 
 ## What is the data?
 The data corresponds to the stock values of 4 US banks in the period between 01/01/2006 and 01/01/2020. 
